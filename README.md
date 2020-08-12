@@ -1,2 +1,2 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [LInk for the project](https://eloquent-saha-238718.netlify.app/).
 
